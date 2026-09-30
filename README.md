@@ -55,7 +55,7 @@ Central sector infrastructure projects often encounter unforeseen bottlenecks, s
        ┌────────────────────────────────────────────────────────────────────────┐
        │                       🏛️ MoSPI SANKET-AI MISSION                       │
        ├────────────────────────────────────────────────────────────────────────┤
-       │  🚀 Real-time Velocity Auditing      🔍 Explainable AI (TreeSHAP)      │
+       │  🚀 Real-time Velocity Auditing      🔍 Explainable AI (TreeSHAP)     │
        │  💰 Multi-Target Risk Forecasting   📊 Geospatial State Intelligence  │
        │  🛡️ Triple-Tier Role RBAC           ⚡ Automated Early Warning Matrix │
        └────────────────────────────────────────────────────────────────────────┘
@@ -322,6 +322,15 @@ npm run dev
 - 🔐 **Stateless JWT Verification**: Session authorization is cryptographically authenticated via Supabase Auth tokens.
 - 📜 **Audit Trail Accountability**: All administrative intervention triggers, overrides, and notes are logged with timestamps.
 - ⚡ **Strict Type Safety**: End-to-end interface contracts enforced across React TypeScript and Pydantic schemas.
+
+---
+
+## 🚀 Live Deployment
+
+| Service | URL |
+|---|---|
+| 🌐 Frontend | [sanket-ai-six.vercel.app](https://sanket-ai-six.vercel.app/) |
+| ⚙️ Backend | [sanket-ai-backend.onrender.com](https://sanket-ai-backend.onrender.com) |
 
 ---
 
