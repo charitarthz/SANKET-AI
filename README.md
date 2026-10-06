@@ -83,7 +83,7 @@ Central sector infrastructure projects often encounter unforeseen bottlenecks, s
 | 🧑‍💻 **Team Member** | **Vansh Ghanchi**| [Vansh](https://github.com/Vansh-Ghanchi) |
 | 🧑‍💻 **Team Member** | **Nandani Solgama** | [Nandani](https://github.com/NandaniJS08) |
 | 🧑‍💻 **Team Member** | **Bhavesh Dharmik** | [Bhavesh](https://github.com/bhaveshdharmik066-gif) |
-| 🧑‍💻 **Team Member** | | [@member6](https://github.com/) |
+| 🧑‍💻 **Team Member** |  **Shani Rabari** | [Shani](https://github.com/) |
 
 </div>
 
